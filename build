@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker build -t tateexon/tar:latest .
+docker push tateexon/tar:latest
